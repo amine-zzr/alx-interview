@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 A script that reads from stdin, processes log lines in a specific format
 and prints statistics
